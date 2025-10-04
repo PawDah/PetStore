@@ -19,8 +19,8 @@ Klonowanie i instalacja zależności:
 
 Bash
 
-git clone [TWOJE REPO]
-cd [NAZWA PROJEKTU]
+git clone PawDah/PetStore
+cd PetStore
 composer install
 Konfiguracja i klucz aplikacji:
 
